@@ -1,0 +1,14 @@
+{
+  "name": "nodetest",
+  "version": "2024.5.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "20.12.2"
+  },
+  "author": "mohamed fathi",
+  "license": "ISC"
+}

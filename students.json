@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "ahmed",
+    "password": "ahmed123",
+    "email": "ahmed@gmail.com",
+    "courses": [
+      {
+        "id": 1,
+        "name": "networks"
+      },
+      {
+        "id": 2,
+        "name": "programing 1"
+      }
+    ],
+    "department": {
+      "id": 1,
+      "name": "cs"
+    }
+  },
+  {
+    "id": 2,
+    "name": "ahmed",
+    "password": "ahmed123",
+    "email": "ahmed1@gmail.com",
+    "courses": [
+      {
+        "id": 1,
+        "name": "networks"
+      }
+    ],
+    "department": {
+      "id": 1,
+      "name": "cs"
+    }
+  }
+]
